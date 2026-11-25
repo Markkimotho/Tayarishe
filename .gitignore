@@ -41,3 +41,7 @@ htmlcov/
 
 # Local trial stack state (keys, pids, logs)
 scripts/local_stack/.state/
+
+# Local Claude Code settings and installed agent skills: per developer, never committed.
+.claude/
+skills-lock.json
